@@ -1,4 +1,4 @@
-<img src="logo.png" style="width:400px; height:100px;">
+![Logi](https://raw.githubusercontent.com/mr-sami-x/sami_ai/main/logo.png)
 
 # SAMI AI
 
