@@ -1,4 +1,4 @@
-<img src="" style="width:200px; height:60px;">
+<img src="logo.png" style="width:700px; height:100px;">
 
 # SAMI AI
 
