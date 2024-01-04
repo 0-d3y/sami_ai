@@ -20,10 +20,10 @@ sami_ai is an advanced artificial intelligence library designed to assist with t
 
 ## Installation
 
-You can install sami_ai using pip:
+You can install sami-ai using pip:
 
 ```
-pip install sami_ai
+pip install sami-ai
 ```
 
 ## Example:
